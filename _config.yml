@@ -1,6 +1,8 @@
 title: RedLua's Blog
 description: Personal writing
-theme: minimal-mistakes-jekyll
+
+remote_theme: mmistakes/minimal-mistakes
 
 plugins:
+  - jekyll-include-cache
   - jekyll-feed
