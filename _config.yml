@@ -2,6 +2,7 @@ title: RedLua's Blog
 description: Personal writing
 
 remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: "sunrise"
 
 plugins:
   - jekyll-include-cache
