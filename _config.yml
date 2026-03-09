@@ -1,0 +1,6 @@
+title: RedLua's Blog
+description: Personal writing
+theme: minimal-mistakes-jekyll
+
+plugins:
+  - jekyll-feed
