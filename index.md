@@ -3,4 +3,6 @@ layout: home
 author_profile: true
 ---
 
-Welcome to my blog.
+![](/assets/images/portada.jpg)
+
+Som l'Esteve i la Laia. Benvinguts al nostre blog!
