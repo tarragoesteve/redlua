@@ -11,5 +11,3 @@ Aquest es el blog que l'Esteve i la Laia han decidit fer per documentar tot all�
 Podem trobar Ramens, viatges, curiositats, Magic, programació... i molt més!
 
 > PD. Primer post fet desde el aeroport de Torino!
-
-[← Home](/)

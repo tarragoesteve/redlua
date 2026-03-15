@@ -3,7 +3,36 @@ description: Personal writing
 
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: "sunrise"
-
+logo: "/assets/images/favicon.png"
+repository: "tarragoesteve/redlua"
 plugins:
-  - jekyll-include-cache
   - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+show_taxonomy: true
+
+include:
+  - _pages
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: false
+      related: true
