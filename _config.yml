@@ -21,6 +21,22 @@ show_taxonomy: true
 include:
   - _pages
 
+author:
+  name: "Esteve i Laia"
+  links:
+    - label: "Esteve's GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/tarragoesteve"
+    - label: "Laia's GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/laisolizq"
+
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/tarragoesteve/redlua"
+
 defaults:
   # _posts
   - scope:
