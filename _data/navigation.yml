@@ -1,0 +1,6 @@
+main:
+  - title: "Posts by Tag"
+    url: /tags/
+
+  - title: "Receptes"
+    url: /receptes/

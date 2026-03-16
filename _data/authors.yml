@@ -1,0 +1,17 @@
+esteve:
+  name: Esteve
+
+laia:
+  name: Laia
+  avatar: /assets/images/laia.jpg
+
+estevelaia:
+  name: "Esteve i Laia"
+  avatar: /assets/images/estevelaia.jpg
+  links:
+    - label: "Esteve's GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/tarragoesteve"
+    - label: "Laia's GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/laisolizq"

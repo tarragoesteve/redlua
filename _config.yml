@@ -21,15 +21,7 @@ show_taxonomy: true
 include:
   - _pages
 
-author:
-  name: "Esteve i Laia"
-  links:
-    - label: "Esteve's GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/tarragoesteve"
-    - label: "Laia's GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/laisolizq"
+author: estevelaia
 
 footer:
   links:

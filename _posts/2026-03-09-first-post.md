@@ -2,6 +2,7 @@
 layout: single
 title: "Comença el nostre blog!"
 date: 2026-03-09
+author: estevelaia
 tags: [personal]
 ---
 
