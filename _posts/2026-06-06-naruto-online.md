@@ -38,3 +38,5 @@ Després d'uns quants dies donant-li voltes vaig arribar a la solució, em desca
 
 
 3. Per poder-lo veure des de la televisió vam utilitzar Jellyfin. Després de barallar-me uns minuts amb els permisos i instal·lar l'aplicació corresponent ja estàvem molt feliços sopant a la televisió mirant Naruto. Hem vist que a vegades els subtitols passen més de pressa del que parlen però de moment ho tolerarem a falta d'una alternativa millor.
+
+    ![]({{site.baseurl}}/assets/images/posts/2026-06-06-naruto/dinning.jpg)
