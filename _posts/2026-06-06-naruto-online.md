@@ -15,6 +15,11 @@ La primera temporada perfecte, però la segona no estava en català, i no ens po
 Després d'uns quants dies donant-li voltes vaig arribar a la solució, em descarregaria Naruto doblat a l'anglès i generaria jo mateix els subtítols. Per passos:
 
 1. Descarregar Naruto en anglès, via BitTorrent
+
+    Aquí la [llista](https://www.animefillerlist.com/shows/naruto-shippuden) de capítols exclonet fillers
+
+    Per buscar torrents, aixequem una instància de [Jackett](https://github.com/jackett/jackett)
+
 2. Transcriure els capítols utilitzant Whisper
 
     ```console
